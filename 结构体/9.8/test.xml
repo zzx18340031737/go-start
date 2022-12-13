@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<persons>
+    <person>
+        <Name>小张</Name>
+        <Age>25</Age>
+        <Interests>
+            <Interest>看书</Interest>
+            <Interest>游泳</Interest>
+        </Interests>
+    </person>
+    <person>
+        <Name>小李</Name>
+        <Age>32</Age>
+        <Interests>
+            <Interest>听音乐</Interest>
+            <Interest>看电影</Interest>
+        </Interests>
+    </person>
+</persons>
